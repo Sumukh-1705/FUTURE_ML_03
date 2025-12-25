@@ -1,0 +1,22 @@
+text,category
+Hi,greeting
+Hello there,greeting
+Good morning,greeting
+Is anyone available?,greeting
+I forgot my password,reset_password
+How do I reset my login?,reset_password
+I cannot login to my account,reset_password
+Change my password please,reset_password
+Where is my order?,shipping
+Track my package,shipping
+When will my delivery arrive?,shipping
+Shipping status,shipping
+I want a refund,refund
+Return this item,refund
+Can I get my money back?,refund
+I need to speak to support,contact
+Call customer service,contact
+Phone number for help,contact
+Bye,goodbye
+See you later,goodbye
+Thanks for the help,goodbye
